@@ -52,7 +52,6 @@ body {
 }
 .cards {
 	min-width: 20.3125rem;
-	/* height: auto; */
 	display: grid;
 	margin-block: 4.5rem;
 	gap: 2rem;
@@ -110,6 +109,7 @@ body {
 	background-image: url(../images/bg-pattern-quotation.svg);
 	background-repeat: no-repeat;
 	background-position: 195px 0px;
+	background-size: contain;
 	color: var(--white);
 }
 .card2 {
