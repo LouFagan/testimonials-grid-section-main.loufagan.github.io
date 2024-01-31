@@ -109,7 +109,6 @@ body {
 	background-image: url(./images/bg-pattern-quotation.svg);
 	background-repeat: no-repeat;
 	background-position: 195px 0px;
-	background-size: contain;
 	color: var(--white);
 }
 .card2 {
